@@ -12,19 +12,32 @@ The other portfolio is currently under construction. Stay tuned for more of the 
 
 Here are some of my previous work experience which might help you find someone who are looking for someone who have the following past experiences.
 
-1. Business Analyst (2021 - 2022)
+1. Business Analyst, ExxonMobil (2021 - 2022)
     - Area of working: SAP SD module
     - Primary task: Convert business requirement into technical requirement, communicate with ABAP developer to develop the program to answer business needs.
-2. Full Stack Developer (Mostly develop backend. Rarely doing front end) (2022 - 2024)
+    - Achievements:
+        1. Automate waiver rule logic during invoice creation phase
+2. Full Stack Developer, ExxonMobil (Mostly develop backend. Rarely doing front end) (2022 - 2024)
     - Programming language: C#, JavaScript
     - Framework: .NET 6, Angular
     - Cloud environment: Microsoft Azure
-    - Misc tools: Terraform
-3. Lead Developer (2024 - present)
+    - Misc tools: Terraform, Auth0, OKTA, Github Workflow, SonarQube
+    - Achievements:
+        1. Develop API that intergrate and enable full automation of order management, logistics, ASRS, and sample manager system for [ExxonMobil's China 1 project](https://www.bloomberg.com/news/articles/2023-06-01/exxon-eyes-china-plastics-market-with-multi-billion-dollar-petrochemical-complex).
+3. Lead Developer, ExxonMobil (2024 - present)
     - Programming language: C#, JavaScript
     - Framework: .NET 8, React
     - Cloud environment: Microsoft Azure, OpenShift Container Platform, Alibaba cloud
-    - Misc tools: Terraform
+    - Misc tools: Terraform, OKTA, Github Workflow, SonarQube
+    - Achievements:
+        1. Optimize cloud resource usage and change strategic hosting platform. Result in annual cost saving of ~$30,000 USD.
+        2. Lead software development plan and share lessons learned across global organization
+        3. Align global way of working for developers
+
+### Education
+
+1. Bachelor of Engineering, Computer Engineering (First Class Honour), Mahidol University International College, 2017 - 2021
+2. Master of Science, Computer Science, Mahidol University, 2022 - 2024
 
 <!--
 **RealFilllykung/RealFilllykung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
