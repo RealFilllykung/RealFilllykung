@@ -1,4 +1,4 @@
-## Dear Recruiters
+## Dear Recruiters and Visitors
 
 Thank you for visitng my profile page. If you are looking for someone with a specific skill set for developing technical solution for customer, here are some of my skill showcase portfolio for employer to review.
 
