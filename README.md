@@ -15,12 +15,12 @@ Here are some of my previous work experience which might help you find someone w
 1. Business Analyst (2021 - 2022)
     - Area of working: SAP SD module
     - Primary task: Convert business requirement into technical requirement, communicate with ABAP developer to develop the program to answer business needs.
-2. Full Stack Developer (Mostly develop backend. Rarely doing front end) (2022 - 2023)
+2. Full Stack Developer (Mostly develop backend. Rarely doing front end) (2022 - 2024)
     - Programming language: C#, JavaScript
     - Framework: .NET 6, Angular
     - Cloud environment: Microsoft Azure
     - Misc tools: Terraform
-2. Lead Developer (2024 - present)
+3. Lead Developer (2024 - present)
     - Programming language: C#, JavaScript
     - Framework: .NET 8, React
     - Cloud environment: Microsoft Azure, OpenShift Container Platform, Alibaba cloud
